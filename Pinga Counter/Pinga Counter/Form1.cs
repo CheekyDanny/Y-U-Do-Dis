@@ -25,5 +25,18 @@ namespace WindowsFormsApplication1
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string s = textBox1.Text;
+
+            int i = Convert.ToInt32(s);
+
+            int num = i++;
+
+            textBox1.Text = num.ToString;
+           
+
+        }
     }
 }
