@@ -1,0 +1,7 @@
+C:\Users\cmorris16\Documents\GitHub\Y-U-Do-Dis\Pinga Counter\Pinga Counter\bin\Debug\Pinga Counter.exe
+C:\Users\cmorris16\Documents\GitHub\Y-U-Do-Dis\Pinga Counter\Pinga Counter\bin\Debug\Pinga Counter.pdb
+C:\Users\cmorris16\Documents\GitHub\Y-U-Do-Dis\Pinga Counter\Pinga Counter\obj\x86\Debug\Pinga Counter.csprojResolveAssemblyReference.cache
+C:\Users\cmorris16\Documents\GitHub\Y-U-Do-Dis\Pinga Counter\Pinga Counter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\cmorris16\Documents\GitHub\Y-U-Do-Dis\Pinga Counter\Pinga Counter\obj\x86\Debug\Pinga Counter.csproj.GenerateResource.Cache
+C:\Users\cmorris16\Documents\GitHub\Y-U-Do-Dis\Pinga Counter\Pinga Counter\obj\x86\Debug\Pinga Counter.exe
+C:\Users\cmorris16\Documents\GitHub\Y-U-Do-Dis\Pinga Counter\Pinga Counter\obj\x86\Debug\Pinga Counter.pdb
